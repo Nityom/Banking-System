@@ -17,7 +17,7 @@ int main(){
     char cont = 'y';
     float amount;
 
-    printf("WELCOME");
+    printf("WELCOME TO BANKING SYSTEM");
     printf("==============================");
     printf("\n What fo you want to do ?");
     printf("\n\n1.Register an account");
